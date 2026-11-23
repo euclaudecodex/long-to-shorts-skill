@@ -1,0 +1,13 @@
+{
+  "name": "long-to-shorts",
+  "version": "1.0.0",
+  "description": "Turn any long video into ready-to-post vertical shorts: finds the viral moments, you approve the list, and Claude delivers each clip with a hook title, word-by-word captions, impact zoom and the post text. Transforma vídeos longos em cortes verticais prontos.",
+  "author": {
+    "name": "Eu Claude Codex",
+    "url": "https://github.com/euclaudecodex"
+  },
+  "homepage": "https://github.com/euclaudecodex/long-to-shorts-skill",
+  "repository": "https://github.com/euclaudecodex/long-to-shorts-skill",
+  "license": "MIT",
+  "keywords": ["shorts", "clips", "reels", "tiktok", "captions", "video", "stream", "podcast", "cortes"]
+}

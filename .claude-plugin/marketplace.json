@@ -1,0 +1,14 @@
+{
+  "name": "euclaudecodex",
+  "owner": {
+    "name": "Eu Claude Codex",
+    "url": "https://github.com/euclaudecodex"
+  },
+  "plugins": [
+    {
+      "name": "long-to-shorts",
+      "source": "./",
+      "description": "Turn any long video into ready-to-post vertical shorts: viral moments, your approval, hook titles, word-by-word captions and post text."
+    }
+  ]
+}
